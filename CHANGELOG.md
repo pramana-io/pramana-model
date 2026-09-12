@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.0](https://github.com/pramana-io/pramana-model/compare/pramana-model-v1.0.0...pramana-model-v1.1.0) (2026-09-12)
+
+
+### Features
+
+* **model:** add Authorization type ([d70bc9a](https://github.com/pramana-io/pramana-model/commit/d70bc9a7680d51e94ff0a1a0f8cde0fc93a50328))
+* **model:** add core service interfaces ([30d632f](https://github.com/pramana-io/pramana-model/commit/30d632fff9e6d59590ba6083b11c01dbd706d9ab))
+* **model:** add Gap type ([c24b1a9](https://github.com/pramana-io/pramana-model/commit/c24b1a951637757ee2de7aaf1aef831f4c2e4c6e))
+* **model:** add Snapshot type ([d142303](https://github.com/pramana-io/pramana-model/commit/d142303db5b7fb3456c884639fbfe82ee515d23f))
+* **model:** add Spend type ([96c7a57](https://github.com/pramana-io/pramana-model/commit/96c7a57c7fd6456b62df3f1cc704b50f5d331484))
+
 ## 1.0.0 (2026-09-12)
 
 
